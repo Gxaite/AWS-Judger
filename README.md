@@ -8,6 +8,8 @@ We would like to thank the following contributors for their valuable contributio
 
 - [Gabriel Scheidt](https://github.com/Gxaite)
 - [Rafael Carvalho](https://github.com/rafaelcarvalhoj)
+- [Johan Rocha](https://github.com/johan-rocha)
+- [Isaac batista](https://github.com/isaacbatista26)
 
 ## Overview
 
